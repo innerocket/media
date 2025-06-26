@@ -1,4 +1,4 @@
-# Media Kit
+# Media
 
 This repository contains the media kit for a service currently under development.  
 It includes logos and brand color variants, each representing a different release stage.
